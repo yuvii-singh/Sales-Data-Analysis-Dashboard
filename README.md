@@ -46,8 +46,3 @@ Integration with Power BI / Tableau
 Real-time data updates
 Advanced predictive analytics
 
-Feel free to fork this repository and suggest improvements!
-
-📬 Contact
-
-If you have any questions or suggestions, feel free to connect.
